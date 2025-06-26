@@ -1,0 +1,19 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 32px;
+    text-align: center;
+}
+
+.image {
+    max-width: 600px;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 32px auto;
+}
+
+.buttonArea {
+    margin-top: 24px;
+}
