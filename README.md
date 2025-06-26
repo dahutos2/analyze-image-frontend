@@ -27,7 +27,7 @@
 ## プロジェクト作成手順
 
 1. 新しいVite + Reactアプリケーションを作成します（TypeScriptテンプレートを使用）
-    - `npm create vite@latest analyze-image -- --template react-ts`
+    - `npm create vite@latest analyze-image-frontend -- --template react-ts`
 
 2. 依存関係をインストールします
     - `npm install`
